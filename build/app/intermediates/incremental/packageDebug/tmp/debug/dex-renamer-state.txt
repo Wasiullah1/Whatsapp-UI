@@ -1,0 +1,4 @@
+#Wed Nov 16 01:59:54 PKT 2022
+base.0=C\:\\Users\\DELL\\Downloads\\WhatsApp-UI-Design\\WhatsApp-UI-Design\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
